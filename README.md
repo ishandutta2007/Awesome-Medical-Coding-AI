@@ -102,259 +102,36 @@ Modern systems increasingly attempt to move beyond simple code lookup toward:
 
 ### Leading Medical Coding AI Platforms
 
-
-
-* **CodaMetrix**
-
-
-
-  * AI-powered autonomous medical coding platform.
-
-  * Focuses on automating professional and facility coding workflows.
-
-  * Uses AI to interpret clinical documentation and generate coding recommendations.
-
-  * Particularly focused on enterprise health systems and physician organizations.
-
-
-
-* **Fathom**
-
-
-
-  * AI-powered autonomous medical coding platform.
-
-  * Automates coding from clinical documentation.
-
-  * Focuses heavily on revenue-cycle automation and large-scale healthcare organizations.
-
-  * Supports coding workflows across multiple specialties.
-
-
-
-* **Nym**
-
-
-
-  * AI-powered healthcare coding and revenue-cycle automation platform.
-
-  * Uses a rules-and-AI approach to transform clinical documentation into standardized codes.
-
-  * Particularly focused on autonomous coding and healthcare administrative workflows.
-
-
-
-* **AKASA**
-
-
-
-  * Healthcare revenue-cycle AI platform.
-
-  * Uses AI agents and automation across revenue-cycle workflows.
-
-  * Includes coding-related automation, denial management, prior authorization, and other administrative processes.
-
-
-
-* **3M M*Modal**
-
-
-
-  * Long-established clinical documentation and speech/AI platform.
-
-  * Combines clinical documentation, ambient intelligence, NLP, coding, and CDI capabilities.
-
-  * Part of the broader Solventum healthcare technology portfolio.
-
-
-
-* **Omega Healthcare**
-
-
-
-  * Healthcare revenue-cycle services and technology company.
-
-  * Uses AI and automation across coding, clinical documentation, billing, and revenue-cycle operations.
-
-  * Combines technology with human coding operations.
-
-
-
-* **CorroHealth**
-
-
-
-  * Healthcare revenue-cycle management and coding organization.
-
-  * Provides coding, CDI, auditing, utilization management, and AI-enabled revenue-cycle solutions.
-
-  * Combines software and human-in-the-loop services.
-
-
-
-* **Claimable**
-
-
-
-  * AI-powered medical coding / revenue-cycle platform.
-
-  * Focuses on automating medical coding and healthcare billing workflows.
-
-
-
-* **Clinithink**
-
-
-
-  * Clinical NLP and healthcare analytics company.
-
-  * Uses NLP to understand clinical documentation and map information to standardized healthcare terminology.
-
-  * Particularly relevant to automated coding, CDI, risk adjustment, and clinical data normalization.
-
-
-
-* **Waystar AI Coding**
-
-
-
-  * AI capabilities within Waystar's broader healthcare payments and revenue-cycle ecosystem.
-
-  * Targets automation of coding and revenue-cycle workflows.
-
-  * Benefits from Waystar's existing healthcare financial infrastructure.
-
-
+| Platform | Description & Core Focus | Pricing (Starting Tier) | Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **CodaMetrix** | AI-powered autonomous medical coding platform automating professional & facility coding workflows across multi-specialty health systems. | Starts at **$0.75 – $2.50 per coded encounter** (transactional fee; enterprise agreements baseline ~$150,000/year). | **60-day structured pilot program** for qualified health systems (limited to single department evaluation dataset, no perpetual free tier). |
+| **Fathom** | Deep-learning autonomous medical coding engine automating ICD-10, CPT, and HCPCS coding from unstructured clinical documentation across ED, ambulatory, and radiology. | Starts at **$1.10 – $2.25 per processed chart** (or 30%–50% cost-reduction performance pricing; enterprise baseline ~$10,000/month). | **30-day historical chart audit & ROI analysis trial** (evaluates up to 10,000–50,000 retrospective encounters, no perpetual free tier). |
+| **Nym** | Computational linguistics engine transforming clinical documentation into standardized codes autonomously with zero human intervention for supported charts. | Starts at **$1.20 – $2.80 per auto-coded chart** (transactional billing model; enterprise contract minimum ~$12,500/month). | **60-day single-specialty pilot program** (evaluates retrospective chart cohort with benchmark accuracy report, no perpetual free tier). |
+| **AKASA** | Unified AI revenue-cycle platform utilizing generative AI and machine learning for automated coding, denial management, and prior authorization workflows. | Starts at **$0.85 – $1.75 per claim transaction** or **4% – 8% of recovered value** (outcome-based fee model; enterprise baseline ~$15,000/month). | **30-day risk-free workflow audit & evaluation pilot** (limited to initial department revenue-cycle analysis, no perpetual free tier). |
+| **3M M*Modal** | Clinical documentation, ambient AI, and speech-driven computer-assisted coding (part of Solventum portfolio). | Starts at **$79 – $99/user/month** for speech/dictation tools; comprehensive CAC modules start at **$150 – $280/provider/month**. | **14-day evaluation demo/pilot** for clinical practices (limited to 1–5 provider test licenses, no perpetual free tier). |
+| **Omega Healthcare** | Tech-enabled revenue cycle services combining AI automation with human-in-the-loop medical coding, CDI, and billing operations. | Starts at **$18 – $26/hour per dedicated coder** or **$1.50 – $3.50 per coded chart** (or 4%–8% of net collections). | **30-day diagnostic coding sample audit** (limited to review of 200–500 sample claims, no perpetual free tier). |
+| **CorroHealth** | Healthcare RCM organization providing autonomous coding (REVANT), CDI, auditing, and utilization management. | Starts at **$1.25 – $2.75 per automated encounter** (or 4.5%–7.5% of net collections; enterprise annual base from ~$20,000/year). | **30-day baseline coding accuracy audit** (limited to 500 sample charts, no perpetual free tier). |
+| **Claimable** | AI-powered medical coding validation, denial management, and appeal generation platform. | Starts at **$79.00/month** (portal subscription) or **$39.95 per individual appeal claim**. | **30-day free trial** (limited to 5 appeal simulations and basic claim denial checks, no perpetual free tier). |
+| **Clinithink** | Clinical NLP platform (CLiX) converting unstructured clinical narrative into structured SNOMED CT and ICD terminology for coding and CDI. | Starts at **$3,500/month** (or **$0.05 – $0.15 per unstructured note** processed in batch; enterprise tier from ~$45,000/year). | **14-day sandbox access** (limited to 1,000 API/document test processing calls, no perpetual free tier). |
+| **Waystar AI Coding** | Cloud-based revenue cycle and AI coding suite integrated into payments clearinghouse and claims workflows. | Starts at **$0.25 – $0.65 per claim transaction** (plus platform base fee starting at **$150 – $300/month** per practice). | **30-day onboarding pilot** (limited to clearinghouse test batch up to 250 test claims, no perpetual free tier). |
 
 ### Additional Medical Coding / CAC Platforms
 
-
-
-* **Optum Encoder / Optum CAC**
-
-
-
-  * Computer-assisted coding and healthcare revenue-cycle ecosystem.
-
-  * Combines coding content, terminology, encoder functionality, and workflow.
-
-
-
-* **3M 360 Encompass**
-
-
-
-  * Enterprise CAC, CDI, coding, and revenue-integrity platform.
-
-  * Deep integration with clinical documentation and coding workflows.
-
-
-
-* **Dolbey**
-
-
-
-  * Computer-assisted coding and clinical documentation platform.
-
-  * Provides CAC, CDI, transcription, and clinical workflow technologies.
-
-
-
-* **MModal Fluency Direct / Fluency for Coding**
-
-
-
-  * Clinical speech recognition and documentation intelligence.
-
-  * Supports coding and CDI workflows.
-
-
-
-* **Nuance / Microsoft Cloud for Healthcare**
-
-
-
-  * Clinical documentation, ambient intelligence, NLP, and healthcare AI ecosystem.
-
-  * Relevant to coding through structured clinical documentation and downstream revenue-cycle workflows.
-
-
-
-* **CPSI / TruCode**
-
-
-
-  * Coding and encoder technologies for healthcare organizations.
-
-  * Provides coding workflow and terminology infrastructure.
-
-
-
-* **TruCode**
-
-
-
-  * Encoder and coding workflow technology.
-
-  * Supports ICD-10, CPT, HCPCS, and other healthcare coding workflows.
-
-
-
-* **Quantros**
-
-
-
-  * Healthcare quality and revenue-cycle-related software ecosystem with coding-related applications.
-
-
-
-* **Enjoin**
-
-
-
-  * Clinical documentation improvement and coding optimization platform.
-
-  * Focuses on CDI, coding, and revenue integrity.
-
-
-
-* **CorroHealth Autonomous Coding**
-
-
-
-  * AI-enabled autonomous coding within CorroHealth's broader RCM platform.
-
-
-
-* **AGS Health**
-
-
-
-  * Healthcare RCM company offering coding, CDI, analytics, and automation.
-
-
-
-* **Access Healthcare**
-
-
-
-  * Healthcare revenue-cycle services and technology platform with coding automation capabilities.
-
-
-
-* **GeBBS Healthcare Solutions**
-
-
-
-  * Healthcare RCM and coding services provider increasingly incorporating AI and automation.
-
-
-
-* **HMS / Gainwell**
-
-
-
-  * Large healthcare technology ecosystem with coding, claims, Medicaid, and government healthcare workflows.
+| Platform | Description & Core Focus | Pricing (Starting Tier) | Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **Optum Encoder / Optum CAC** | Comprehensive encoder and computer-assisted coding ecosystem offering ICD-10, CPT, HCPCS code lookup, LCD/NCD rules, and compliance tools. | Starts at **$299.95/user/year** ($24.99/month equivalent) for Standard Online; Expert Online at **$999.95/user/year**; enterprise CAC from ~$15,000/year. | **30-day free trial** for EncoderPro Online (full access to code search, crosswalks, and regulatory updates; 1 user license limit). |
+| **3M 360 Encompass** | Enterprise computer-assisted coding (CAC), clinical documentation integrity (CDI), and inpatient/outpatient DRG grouping platform (Solventum). | Starts at **$1,500 – $3,500 per hospital bed/year** (or enterprise institutional contract starting at ~$50,000/year). | **30-day structured on-site/virtual pilot evaluation** (limited to test hospital environment, no perpetual free tier). |
+| **Dolbey (Fusion CAC / Fusion Narrate)** | Computer-assisted coding and cloud speech recognition platform providing automated chart scoring, CDI, and transcription. | Starts at **$45 – $79/user/month** for Fusion Narrate; Fusion CAC enterprise modules start at **~$12,000/year**. | **14-day free trial** for Fusion Narrate speech recognition (full dictation & EHR integration features; 1 provider license limit). |
+| **MModal Fluency Direct / Fluency for Coding** | Real-time speech recognition, documentation intelligence, and automated CAC suggestions integrated with EHRs. | Starts at **$99/user/month** (annual contract) or CAC engine add-on starting at **~$800/month**. | **14-day clinical trial license** (limited to 1 provider profile with standard medical vocabularies, no perpetual free tier). |
+| **Nuance / Microsoft Cloud for Healthcare** | Ambient clinical AI (DAX Copilot) and cloud speech recognition (Dragon Medical One) with downstream clinical coding intelligence. | Starts at **$79 – $99/user/month** for Dragon Medical One (+ ~$525 one-time setup); DAX Copilot starting at **$369 – $600/provider/month**. | **7-day to 30-day free trial** through authorized Microsoft/Nuance partners (full voice dictation feature access; 1 provider license limit). |
+| **CPSI / TruCode (TruBridge)** | Encoder software and terminology infrastructure for hospitals and health systems, supporting ICD-10, CPT, and HCPCS workflows. | Starts at **$2,400/encoder seat/year** (~$200/seat/month; enterprise facility bundle from ~$18,000/year). | **14-day guided sandbox access** (limited to demo patient dataset and standard encoder lookups, no perpetual free tier). |
+| **Quantros** | Healthcare quality, clinical safety event tracking, and risk-adjustment/coding analytics platform. | Starts at **$500 – $1,200/month per facility** (or ~$6,000 – $14,400/year base tier). | **30-day guided evaluation pilot** (limited to sample hospital department quality/coding data, no perpetual free tier). |
+| **Enjoin** | Physician-led CDI, coding validation, risk adjustment (HCC), and revenue-integrity software and consulting. | Starts at **$1,500 – $3,000/month** for software/consultative tier (or ~$18,000/year base). | **30-day chart sample assessment** (limited to review of 100 historical patient charts, no perpetual free tier). |
+| **CorroHealth Autonomous Coding** | AI-driven autonomous coding module (REVANT) within CorroHealth's RCM suite for emergency, radiology, and pathology departments. | Starts at **$1.15 – $2.50 per automated encounter** (or fixed departmental tiers from **$8,500/month**). | **30-day diagnostic proof-of-concept** (limited to 1,000 chart test run, no perpetual free tier). |
+| **AGS Health** | Tech-enabled RCM company offering AI-assisted coding, CDI, charge capture, and AGS Coding Academy. | Starts at **$19 – $28/hour per dedicated coder** or **$1.40 – $2.60 per chart** (Coding Academy plans start at **$6,000/year**). | **30-day pilot program** for selected specialties (limited to 300 test encounters, no perpetual free tier). |
+| **Access Healthcare** | AI medical coding, echo RCM automation suite, and healthcare business process outsourcing services. | Starts at **$1.20 – $2.40 per chart** or **4% – 7% of collections** (platform baseline starting at **$7,500/month**). | **30-day pilot workflow assessment** (limited to single billing workqueue evaluation, no perpetual free tier). |
+| **GeBBS Healthcare Solutions** | iCode AI-assisted computer-assisted coding (CAC) platform, audit management, and RCM services. | Starts at **$1.30 – $2.50 per coded chart** or **$2,000/month per clinic facility**. | **30-day pilot audit trial** (limited to 250 chart audit benchmark sample, no perpetual free tier). |
+| **HMS / Gainwell Technologies** | Enterprise Medicaid/Medicare integrity, coordination of benefits, payment accuracy, and claims coding audit engine. | Starts at **$5,000 – $15,000/month** for state agency/payer modules (or **5% – 12% contingency fee** on recovered overpayments). | **60-day proof-of-value data assessment** (limited to historical claims sample test run, no perpetual free tier). |
 
 
 
