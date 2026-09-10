@@ -113,7 +113,7 @@ The open-source ecosystem provides essential building blocks—from domain-adapt
 
 *All repositories sorted strictly by GitHub star count (Descending). Click on the star badge to visit the repo's stargazers.*
 
-| Repository | Stars Badge | Category | Description |
+| Repository | Stars_Badge | Category | Description |
 | :--- | :---: | :--- | :--- |
 | **[transformers](https://github.com/huggingface/transformers)** | [![Stars](https://img.shields.io/github/stars/huggingface/transformers?style=social&color=white)](https://github.com/huggingface/transformers/stargazers) | Foundation Models | State-of-the-art machine learning models for PyTorch, TensorFlow, and JAX used to fine-tune medical coding LLMs. |
 | **[bert](https://github.com/google-research/bert)** | [![Stars](https://img.shields.io/github/stars/google-research/bert?style=social&color=white)](https://github.com/google-research/bert/stargazers) | Foundation Models | TensorFlow code and pre-trained models for BERT, the foundation of BioBERT, ClinicalBERT, and clinical transformers. |
